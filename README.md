@@ -20,3 +20,11 @@ Learning notes
 ## Fonts
 - ideal measure (character per line) for web: 65 cpl
 - good fonts are at least 16px and 1.2em
+
+## Units, Formats, Environments
+- width: 100%vw (set width to 100% of the viewport width)
+- height: 100%vh (set height to 100% of the viewport height)
+- width: 100%vmin
+- height: 100%vmin (set width or height to the miminum of the viewport width and height)
+- width: 100%vmax
+- height: 100%vmax (set width or height to the maximum)
