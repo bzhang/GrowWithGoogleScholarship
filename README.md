@@ -28,3 +28,12 @@ Learning notes
 - height: 100%vmin (set width or height to the miminum of the viewport width and height)
 - width: 100%vmax
 - height: 100%vmax (set width or height to the maximum)
+
+## Responsive images
+- using Grunt
+- npm install -g grunt-cli
+- brew install imagemagick
+- brew install GraphicsMagick
+- edit Gruntfile.js
+- grunt responsive_images
+
