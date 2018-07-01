@@ -37,3 +37,6 @@ Learning notes
 - edit Gruntfile.js
 - grunt responsive_images
 
+## Performance
+- use icon fonts
+- use utf-8 icons instead of png icons
