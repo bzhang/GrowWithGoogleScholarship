@@ -40,3 +40,13 @@ Learning notes
 ## Performance
 - use icon fonts
 - use utf-8 icons instead of png icons
+
+## Full responsiveness
+- `srcset` with `x`, reacting to Device Pixel Ratio (DPR)
+```HTML
+<img src="image_2x.jpg" srcset="image_2x.jpg 2x, image_1x.jpg 1x" alt="a cool image">
+```
+- `srcset` with `w`, reacting to Image Width
+```HTML
+<img src="image_200.jpg" srcset="image_200.jpg 200w, image_100.jpg 100w" alt="a cool image">
+```
