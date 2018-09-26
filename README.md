@@ -50,3 +50,10 @@ Learning notes
 ```HTML
 <img src="image_200.jpg" srcset="image_200.jpg 200w, image_100.jpg 100w" alt="a cool image">
 ```
+
+## Accessibility
+Web Content Accessibility Guidelines (WCAG)
+- Perceivable
+- Operable
+- Understandable
+- Robust
