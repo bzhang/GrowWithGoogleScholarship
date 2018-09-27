@@ -57,3 +57,5 @@ Web Content Accessibility Guidelines (WCAG)
 - Operable
 - Understandable
 - Robust
+
+Setup a simple local web server using a [Chrome extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en)
